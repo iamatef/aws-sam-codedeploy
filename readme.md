@@ -2,7 +2,9 @@
 This is a demo of how to use AWS SAM to deploy a python app to AWS CodeDeploy
 
 ## 1  download a sample app  
+````
 sam init --runtime python3.9
+````
 
 Choose aws quick start template hello world, this should clone a repo and then you have an app in directory sam-app so 
 
